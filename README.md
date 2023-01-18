@@ -27,13 +27,19 @@ Paula Neriz S. Sarol
   - Dancing
   -  and, Travelling
 
+
 ## Social MEDIA:
 **Facebook:** 
+![Screenshot_20230118_100706](https://user-images.githubusercontent.com/122423988/213194552-bc579827-a0a6-4983-82ee-55a1c837a6b6.png)
 
+**Instagram:**
+![Screenshot_20230118_102620](https://user-images.githubusercontent.com/122423988/213197256-28527844-bba8-4c78-90cc-6aac82b4f543.png)
+*stalk mo naa :)*
 
 
 ## MY SPOTIFY PLAYLIST/s:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/71PpDi9XPMweRHyeksrqVH?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6GVVhAjGsu8hRUSyf2ZPfk?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-![Screenshot_20230118_100706](https://user-images.githubusercontent.com/122423988/213193466-25098411-f21f-4e32-ad1f-d895efa572ef.png)
+
+---

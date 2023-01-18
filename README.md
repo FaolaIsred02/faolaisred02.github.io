@@ -4,7 +4,7 @@ Paula Neriz S. Sarol
 
 ## **Learn about me? Lezzgoarr!**
 
-                                                  👋 Hi! I'm Pau your classpressed 🤏
+          👋 Hi! I'm Pau your classpressed 🤏
                                                   
                                                   
                                                   

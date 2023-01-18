@@ -1,7 +1,7 @@
 # faolaisred02.github.io
 Paula Neriz S. Sarol
 
-## **Learn about me? Lezzgo!**
+= ## **Learn about me? Lezzgo!** = 
 
 👋 Hi! I'm Pau your classpressed 🤏
 

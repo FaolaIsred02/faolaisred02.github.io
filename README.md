@@ -29,10 +29,11 @@ Paula Neriz S. Sarol
 
 ## Social MEDIA:
 **Facebook:** 
-[Screenshot_20230118_100706](https://user-images.githubusercontent.com/122423988/213192600-14a1400f-7019-499d-8c0a-5996bd4580e2.png)
+
 
 
 ## MY SPOTIFY PLAYLIST/s:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/71PpDi9XPMweRHyeksrqVH?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6GVVhAjGsu8hRUSyf2ZPfk?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6GVVhAjGsu8hRUSyf2ZPfk?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+![Screenshot_20230118_100706](https://user-images.githubusercontent.com/122423988/213193466-25098411-f21f-4e32-ad1f-d895efa572ef.png)
